@@ -1,0 +1,4 @@
+- [x] Inspect supplied screenshot and JSON structure.
+- [ ] Build selected focused dashboard and upload-gated navigation.
+- [ ] Map all review, fixes, weaknesses, and reference data into usable views.
+- [ ] Verify desktop/mobile layout and upload interactions.
